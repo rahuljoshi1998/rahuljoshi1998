@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Rahul Joshi
 
-<!--
-**rahuljoshi1998/rahuljoshi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Java Developer | Backend Enthusiast
+I specialize in building robust, scalable backend systems and solving complex algorithmic challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Java (Core & Advanced), SQL
+- **Frameworks:** Spring Boot, Spring MVC, Hibernate
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Maven, Docker, IntelliJ IDEA
+
+---
+
+### 📈 GitHub Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuljoshi1998&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljoshi1998&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/rahul-joshi-7a08b6214/) | [Email](mailto:rj880261@gmail.com)
